@@ -2,6 +2,11 @@
 
 A Flutter application that allows users to manage tasks **offline using sqflite**, and **syncs automatically to Firebase Firestore when online**. Built with `GetX` for reactive state management and clean architecture.
 
+
+https://github.com/user-attachments/assets/38925de8-304a-4676-a1e7-2b2277efccc9
+
+
+
 ---
 
 ## 🚀 Features
