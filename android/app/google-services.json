@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40347880832",
+    "project_id": "note-syncer",
+    "storage_bucket": "note-syncer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40347880832:android:47bef0f296e73de9108565",
+        "android_client_info": {
+          "package_name": "com.notesyncer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeqM0Q1VsqPu4jb6iSUbw3QyCKrGnpbZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
