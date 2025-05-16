@@ -1,4 +1,4 @@
-# 📝 Offline-First Task Manager
+# 📝 Offline Task Manager
 
 A Flutter application that allows users to manage tasks **offline using sqflite**, and **syncs automatically to Firebase Firestore when online**. Built with `GetX` for reactive state management and clean architecture.
 
@@ -128,8 +128,11 @@ dev_dependencies:
 
 ---
 
-## 📸 Screenshots (optional)
-> Add screenshots/gifs of your app in action here
+## 📸 Screenshots
+![1](https://github.com/user-attachments/assets/522aabe4-0c69-450d-a1d7-3fb3563108dc) ![2](https://github.com/user-attachments/assets/d38413a3-24c7-4ac2-b5b1-28e9f29b5927) ![3](https://github.com/user-attachments/assets/2491b19e-8896-45d9-ba3d-84d7788b3b5b) ![4](https://github.com/user-attachments/assets/b2130cfb-cd50-410d-83ed-c5a90956dbfa) ![5](https://github.com/user-attachments/assets/1e2eb0cf-1752-47b9-a73d-e9d66ad38d55)
+
+
+
 
 ---
 
